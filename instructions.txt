@@ -1,0 +1,1 @@
+export PYTHONPATH=$PYTHONPATH:/Users/annadignan/Desktop/ursi2022/mypy
